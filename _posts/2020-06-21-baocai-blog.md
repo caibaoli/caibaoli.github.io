@@ -1,7 +1,7 @@
 ---
 title: 2020-06-21-baocai-blog
 author: baocai
-categories: [ tutorial ]
+categories: [tutorial,study]
 image: assets/images/17.jpg
 tags: [sticky，featured]
 ---
