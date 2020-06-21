@@ -1,5 +1,5 @@
 # Site
-name: 'Mundana'
+name: 'caibao'
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/favicon.jpeg'
 favicon: 'assets/images/favicon.jpeg'
@@ -34,6 +34,7 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+
     baocai:
       name:           libaocai
       site:           https://caibaoli.github.io
