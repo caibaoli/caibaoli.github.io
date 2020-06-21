@@ -1,12 +1,12 @@
 # Site
 name: 'Mundana'
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/favicon.jpeg'
+favicon: 'assets/images/favicon.jpeg'
 baseurl: '/caibaoli.github.io'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+email: 'li-shuai1993@1763.com'
+mailchimp-list: ''
 
 include: ["_pages"]
 permalink: /:title/
@@ -34,6 +34,13 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+    baocai:
+      name:           libaocai
+      site:           https://caibaoli.github.io
+      avatar:         /assets/images/baocai.jpg
+      bio:            "爱西装没钱买工程师的blog"
+      email:          li-shuai1993@163.com
+      twitter:        
  
 # Defaults
 defaults:
@@ -43,8 +50,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: baocai
+      avatar: /assets/images/baocai.jpg
       
   # all pages
   - scope:
