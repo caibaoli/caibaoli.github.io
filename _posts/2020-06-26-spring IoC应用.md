@@ -15,13 +15,12 @@ tags: spring
  BeanFactory是Spring框架中IoC容器的顶层接口,用来定义一些基础功能,定义一些基础规范,而 ApplicationContext是它的一个子接口，所以ApplicationContext是具备BeanFactory提供的全部功能的。
 通常，我们称BeanFactory为Spring IoC的基础容器，ApplicationContext是容器的高级接口，比 BeanFactory要拥有更多的功能，比如说国际化支持和资源访问(xml，java配置类)等等。
 
-
-![BeanFactory结构树](./images/BeanFactory结构树.png)
+![walking]({{ site.baseurl }}/assets/images/ioc_aop/BeanFactory结构树.png)
 
 **依赖注入以及启动IoC容器的方式**
 依赖注入方式三种：纯xml、xml+注解、纯注解，启动IoC容器方式两种：Java环境下启动、Web环境下启动。
 
-![spring ioc讲解说明](./images/spring_ioc讲解说明.png)
+![walking]({{ site.baseurl }}/assets/images/ioc_aop/spring_ioc讲解说明.png)
 
 **1.2 纯xml模式**
 
