@@ -6,7 +6,7 @@ tags: spring
 ---
 
 
-# spring IoC 应用-Spring IoC基础
+# spring IoC 应用
 
 
 ### 第1节 Spring IoC基础
