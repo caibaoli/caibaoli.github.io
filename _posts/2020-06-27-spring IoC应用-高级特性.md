@@ -70,10 +70,11 @@ xml -> BeanDefinition -> Bean
 
 > BeanDefinition对象:我们在 XML 中定义的 bean标签，Spring 解析 bean 标签成为一个 JavaBean， 这个JavaBean 就是 BeanDefinition
 
-Spring Bean生命周期![enter description here](./images/1593234338191.png)
+Spring Bean生命周期
+![walking]({{ site.baseurl }}/assets/images/ioc_aop/Spring Bean生命周期.png)
 
 BeanFactoryPostProcessor作用位置，封装成BeanDefinition还未Bean实例化时
-![enter description here](./images/1593234712674.png)
+![walking]({{ site.baseurl }}/assets/images/ioc_aop/BeanFactoryPostProcessor作用位置.png)
 
 
 
