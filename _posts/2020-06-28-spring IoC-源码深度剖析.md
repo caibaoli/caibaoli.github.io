@@ -14,7 +14,7 @@ tags: spring
  **1.1 容器体系**
  
  BeanFactory 容器继承体系
-![enter description here](./images/1593312503582.png)
+![walking]({{ site.baseurl }}/assets/images/ioc_aop/BeanFactory容器继承体系.png)
 
 > Bean 的创建是在容器初始化时，在设置延迟加载的情况下，Bean 的创建是在getBean()时。
 
